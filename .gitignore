@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# PyQt UI compiler artifacts
+*.pyc
+*.pyo
+*.pyd
+*.qmlc
+*.qrc.py
+ui_*.py
+
+# PyQt5 Designer autosave files
+*.autosave
+
+# Qt Creator specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+
+# Qt build directories
+build/
+dist/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# PyInstaller
+# Usually creates a dist and build folder and a .spec file
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+*.env.*
+
+# Database files (exclude from version control)
+*.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.swp
