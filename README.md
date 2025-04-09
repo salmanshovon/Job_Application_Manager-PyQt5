@@ -1,8 +1,8 @@
 # 📋 Job Application Manager (PyQt5)
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/screenshot1.png)
 
-A **desktop application** for managing government job applications, exams, and results with SQLite backend.
+A **desktop application** for managing Bangladeshi government job applications, exams, and results with SQLite backend.
 
 [![GitHub stars](https://img.shields.io/github/stars/salmanshovon/Job_Application_Manager-PyQt5?style=social)](https://github.com/salmanshovon/Job_Application_Manager-PyQt5)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15.9-blue.svg)](https://pypi.org/project/PyQt5/)
@@ -60,9 +60,9 @@ graph TD
 ```
 
 ## 🖼️ Screenshots
-| Circulars View | Applications | Exam Scheduling |
+| Circulars View | Archive | Exam Scheduling |
 |----------------|--------------|-----------------|
-| ![Circulars](./assets/circulars.png) | ![Applications](./assets/applications.png) | ![Exams](./assets/exams.png) |
+| ![Circulars](./assets/add_new_circular.png) | ![Applications](./assets/screenshot_archive.png) | ![Exams](./assets/update_appliation.png) |
 
 ## 📝 Usage Guide
 1. **Add Circulars**:
