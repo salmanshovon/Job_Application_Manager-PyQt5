@@ -87,7 +87,6 @@ graph TD
 MIT License - See [LICENSE](./LICENSE)
 
 ## 📬 Contact
-**Salman Mahmood Shovon**  
-📞 +8801753 999 841  
+**Salman Mahmood Shovon**   
 📧 salman.eee@yahoo.com  
 💼 [GitHub Profile](https://github.com/salmanshovon)
