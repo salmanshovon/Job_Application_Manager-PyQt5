@@ -62,7 +62,7 @@ graph TD
 ## 🖼️ Screenshots
 | Circulars View | Archive | Exam Scheduling |
 |----------------|--------------|-----------------|
-| ![Circulars](./assets/add_new_circular.png) | ![Applications](./assets/screenshot_archive.png) | ![Exams](./assets/update_appliation.png) |
+| ![Circulars](./assets/add_new_circular.png) | ![Applications](./assets/screenshot_archive.png) | ![Exams](./assets/update_application.png) |
 
 ## 📝 Usage Guide
 1. **Add Circulars**:
